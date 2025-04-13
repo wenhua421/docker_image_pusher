@@ -1,5 +1,4 @@
 nginx
 #支持私库
-xhofe/alist:laste
 mysql:5.7
 tomcat:laste
