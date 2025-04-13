@@ -1,3 +1,4 @@
 nginx
 #支持私库
 kube-state-metrics
+xhofe/alist:laste
