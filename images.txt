@@ -3,4 +3,4 @@ nginx
 mysql:5.7
 tomcat
 busybox
-quay.io/prometheus/blackbox-exporter:v0.23.0
+redis
